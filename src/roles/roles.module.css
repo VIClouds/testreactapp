@@ -1,0 +1,20 @@
+.rolesTable {
+    width: 600px;
+    margin: 0px auto;
+}
+
+.roles {
+    width: 800px;
+    margin: 0px auto;
+}
+
+.rolesFrom {
+    margin: 0px auto;
+}
+
+.rolesSubmit {
+    display: flex;
+    width: 100%;
+    justify-content: center ;
+
+}

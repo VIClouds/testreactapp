@@ -1,0 +1,7 @@
+.app {
+    display: flex;
+}
+.rolesUsers {
+    margin: 15px 40px;
+    width: 100%;
+}

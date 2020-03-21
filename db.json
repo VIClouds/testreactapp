@@ -1,0 +1,17 @@
+{
+  "roles": {
+    "rolesList": [],
+    "rolesColumns": [
+      {
+        "title": "Id",
+        "dataIndex": "key",
+        "key": "key"
+      },
+      {
+        "title": "Name",
+        "dataIndex": "Name",
+        "key": "Name"
+      }
+    ]
+  }
+}
